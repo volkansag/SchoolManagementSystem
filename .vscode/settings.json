@@ -1,0 +1,13 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 20,
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "vscode-icons",
+  "git.autofetch": "all",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

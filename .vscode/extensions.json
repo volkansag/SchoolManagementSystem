@@ -1,0 +1,17 @@
+{
+  "recommendations": [
+    "astro-build.astro-vscode",
+    "bradlc.vscode-tailwindcss",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "seyyedkhandon.firacode",
+    "vscode-icons-team.vscode-icons",
+    "vue.volar",
+    "wix.vscode-import-cost"
+  ],
+  "unwantedRecommendations": []
+}
